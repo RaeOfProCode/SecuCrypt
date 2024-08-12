@@ -343,6 +343,7 @@ def main_menu():
         else:
             console.print("[[bold red]EXIT[/bold red]] Exiting...")
             console.print("[[bold red]EXIT[/bold red]] Program Successfully Exited.")
+            menu_running = False
             break
 
         # Prompts the user to choose to go back to the Main Menu.
@@ -354,6 +355,7 @@ def main_menu():
         else:
             console.print("[[bold red]EXIT[/bold red]] Exiting...")
             console.print("[[bold red]EXIT[/bold red]] Program Successfully Exited.")
+            menu_running = False
             break
 
 
