@@ -6,3 +6,9 @@
 - **Text Conversion:** Functions for converting ASCII strings to hexadecimal and vice versa.
 - **Encryption Functions:** Implementations of encryption using AES, DES, and hashing using MD5, SHA-1, and SHA-256. The tool prompts the user for input and processes it using the selected encryption algorithm.
 - **Main Menu:** A user-friendly menu that allows users to select an encryption algorithm or exit the program. After an operation, the user can return to the main menu or exit.
+
+### Required Python Libraries
+- **rich
+- **shutil
+- **binascii
+- **Pycryptodome
