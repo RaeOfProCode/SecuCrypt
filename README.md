@@ -1,6 +1,5 @@
 ### Description
-This Python code is a command-line cryptography tool named "SecuCrypt." The tool uses the `rich` library for enhanced console output and supports various encryption algorithms such as AES, DES, MD5, SHA-1, and SHA-256.
-The main purpose of this tool is to allow users to easily encrypt text using various algorithms, making it useful for educational purposes or basic cryptographic tasks.
+"SecuCrypt" is a command-line cryptography tool. The tool uses the `rich`, `shutil`, `binascii`, and `Pycryptodome` libraries for enhanced console output and supports various encryption algorithms such as AES, DES, MD5, SHA-1, and SHA-256. The main purpose of this tool is to allow users to easily encrypt text using various algorithms, making it useful for educational purposes or basic cryptographic tasks.
 
 ### Key Features
 - **Title and Description Display:** The tool displays an ASCII art logo and description if the terminal size allows it.
