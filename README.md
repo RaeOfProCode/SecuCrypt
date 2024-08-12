@@ -1,3 +1,5 @@
+<img width="734" alt="Screenshot 2024-08-11 at 7 54 21 PM" src="https://github.com/user-attachments/assets/b2d1b509-f7aa-4624-b6ed-eac8dc7dde02">
+
 ### Description
 "SecuCrypt" is a command-line cryptography tool. The tool uses the `rich`, `shutil`, `binascii`, and `Pycryptodome` libraries for enhanced console output and supports various encryption algorithms such as AES, DES, MD5, SHA-1, and SHA-256. The main purpose of this tool is to allow users to easily encrypt text using various algorithms, making it useful for educational purposes or basic cryptographic tasks.
 
