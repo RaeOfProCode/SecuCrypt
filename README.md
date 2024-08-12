@@ -8,7 +8,7 @@
 - **Main Menu:** A user-friendly menu that allows users to select an encryption algorithm or exit the program. After an operation, the user can return to the main menu or exit.
 
 ### Required Python Libraries
-- **rich
-- **shutil
-- **binascii
-- **Pycryptodome
+- rich
+- shutil
+- binascii
+- Pycryptodome
